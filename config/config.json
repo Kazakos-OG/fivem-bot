@@ -1,0 +1,40 @@
+{
+    "token": "discord token",
+    "prefix": "!",
+    "discord_server_id": "discord server id",
+
+    "debug": true,
+
+    "embed": {
+        "color": "#00000",
+        "footer": "Something goes here"
+    },
+
+
+    "datebase": {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "name": "fivem"
+    },
+
+    "settings": {
+        "support_roles": ["support roles"],
+        "shows_online_members_in_presence": true,
+
+        "default_ban_msg": "You have been banned from our server! Please join our discord to appeal this ban discord.gg/RquDVTfDwu",
+
+        "whitelist_system": false,
+        "whitelist_message": "You are not whitelisted to join our server. Please apply in our discord @ discord.gg/RquDVTfDwu",
+        "whitelist_role": "whitelist-role"
+    },
+
+    "server_count": {
+        "server_stats": true,
+        "channel_id": "channel id",
+        "set_name": "Players online:",
+
+        "active_players_in_an_embed": false,
+        "channel_idv2": "channel id for the embed"
+    }
+}

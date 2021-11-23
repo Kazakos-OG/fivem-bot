@@ -1,0 +1,16 @@
+{
+    "name": "fivem-bot-v2",
+    "version": "1.0.0",
+    "description": "made by kazakos",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "kazakos",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "git+https://github.com/Kazakos-OG/fivem-discord.js.git",
+        "fs": "0.0.1-security",
+        "mysql": "^2.18.1"
+    }
+}
